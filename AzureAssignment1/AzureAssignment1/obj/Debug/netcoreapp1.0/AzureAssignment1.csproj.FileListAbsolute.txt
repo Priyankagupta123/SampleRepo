@@ -1,0 +1,11 @@
+D:\Session Samples\AzureAssignment1\AzureAssignment1\bin\Debug\netcoreapp1.0\AzureAssignment1.deps.json
+D:\Session Samples\AzureAssignment1\AzureAssignment1\bin\Debug\netcoreapp1.0\AzureAssignment1.runtimeconfig.json
+D:\Session Samples\AzureAssignment1\AzureAssignment1\bin\Debug\netcoreapp1.0\AzureAssignment1.runtimeconfig.dev.json
+D:\Session Samples\AzureAssignment1\AzureAssignment1\bin\Debug\netcoreapp1.0\AzureAssignment1.dll
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.csprojResolveAssemblyReference.cache
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.csproj.CoreCompileInputs.cache
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.AssemblyInfoInputs.cache
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.AssemblyInfo.cs
+D:\Session Samples\AzureAssignment1\AzureAssignment1\bin\Debug\netcoreapp1.0\AzureAssignment1.pdb
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.dll
+D:\Session Samples\AzureAssignment1\AzureAssignment1\obj\Debug\netcoreapp1.0\AzureAssignment1.pdb

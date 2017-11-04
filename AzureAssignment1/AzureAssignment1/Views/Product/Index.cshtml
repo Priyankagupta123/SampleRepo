@@ -1,0 +1,11 @@
+@using AzureAssignment1.Models;
+@model List<Product>
+
+
+@foreach (var product in Model)
+{
+   @Html.TextBox(product.ProductName);
+   <img src="@product.ImageUrl" class="img-responsive" />
+}
+
+@Html.Partial("_AddProdcut", new Product());

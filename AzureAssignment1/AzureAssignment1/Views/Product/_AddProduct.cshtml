@@ -1,0 +1,16 @@
+﻿@model AzureAssignment1.Models.Product
+
+<h4 style="text-align-last: center">Add Product</h4>
+
+<form method="post" id="AddProductForm">
+    <input class="form-control" asp-for="ProductName" maxlength="25">
+    <div class="form-group col-sm-12">
+        <label>Image</label>
+        <span class="btn btn-primary btn-file fileinput-new wordbreak">
+            <span>Select File</span>
+            <input type="file" asp-for="ImageUrl" accept=".png, .jpg, .jpeg" />
+        </span>
+        <span class="imageFileName fileinput-filename wordbreak"></span>
+        <a href="#" class="fileinput-exists" data-dismiss="fileinput" style="float: none" data-toggle="tooltip" data-placement="top" title="Delete" data-original-title="Delete"><i class="glyphicon glyphicon-trash remove-icon"></i></a>        
+        </div>
+</form>
