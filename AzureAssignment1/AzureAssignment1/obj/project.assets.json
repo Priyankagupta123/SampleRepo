@@ -10796,11 +10796,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Session Samples\\AzureAssignment1\\AzureAssignment1\\AzureAssignment1.csproj",
+      "projectUniqueName": "D:\\Session Samples\\AzureAss\\AzureAssignment1\\AzureAssignment1\\AzureAssignment1.csproj",
       "projectName": "AzureAssignment1",
-      "projectPath": "D:\\Session Samples\\AzureAssignment1\\AzureAssignment1\\AzureAssignment1.csproj",
+      "projectPath": "D:\\Session Samples\\AzureAss\\AzureAssignment1\\AzureAssignment1\\AzureAssignment1.csproj",
       "packagesPath": "C:\\Users\\priyanka.sarapu\\.nuget\\packages\\",
-      "outputPath": "D:\\Session Samples\\AzureAssignment1\\AzureAssignment1\\obj\\",
+      "outputPath": "D:\\Session Samples\\AzureAss\\AzureAssignment1\\AzureAssignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\priyanka.sarapu\\AppData\\Roaming\\NuGet\\NuGet.Config",
